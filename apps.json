@@ -1,0 +1,90 @@
+[
+ {
+   "AppID": 10000,
+   "Category": "Entertainment",
+   "AppName": "Musify - Free Music Download - Mp3 Downloader",
+   "Price": 4.99,
+   "LinkIcon": "https://s4.mzstatic.com/us/r30/Purple3/v4/fb/0e/a7/fb0ea72b-8490-d5da-27f8-87b50fa18211/mzl.cclgzzcu.png",
+   "LinkPlist": "",
+   "LinkIpa": "https://itunes.apple.com/us/app/s3-music-mp3-player-playlists-albums-manager/id1177493794?mt=8&fbclid=IwAR1QYyYZRUSJ6ttOra0LZ8k0KlEfq3RCc3JzENGPU-Roc9Uw0Pc0AuHIgms",
+   "LinkDemo": "https://s5.mzstatic.com/r30/Purple5/v4/e0/77/7d/e0777d17-1aac-7e5f-5ce7-23b30b2a3268/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple5/v4/fc/13/2e/fc132e7f-2750-6de0-d129-7b7e567dfd91/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple3/v4/47/75/4b/47754b87-c476-21c7-2812-636caf0b58f8/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple4/v4/aa/7c/1f/aa7c1fbd-9ec5-fdce-72e9-d59de8f0681a/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple3/v4/33/5a/fb/335afb16-4c22-64cb-4355-859fb9fb93fd/screen1136x1136.jpeg",
+   "Description": "100% Free! No Download Limit! \n\nSearch, Listen, Stream and Download unlimited free music from Musify to your iPhone/iPod/iPad. Millions of free songs, DJ sets, remixes and live concerts. Play downloaded tracks OFFLINE!\n\nKey Features:\n√ Full iPhone 5, 5c and 5s Support!\n√ Single tap music streaming and/or downloads\n√ Listen songs before downloading\n√ Search for artist, DJ, song, remix or cover\n√ Sort by name, type, size, date\n√ iPod-Like music playlists\n√ Full featured media player\n√ Album covers\n√ Equalizer with BassBooster\n√ Lock screen playback controls\n√ Fine scrubbing\n√ Background music playback"
+ },
+ {
+   "AppID": 10001,
+   "Category": "Entertainment",
+   "AppName": "Free Music Download Pro - Mp3 Downloader & Streamer",
+   "Price": 4.99,
+   "LinkIcon": "https://s4.mzstatic.com/us/r30/Purple3/v4/19/22/6f/19226fad-553d-7bf5-3664-5e2e14542c3d/mzl.grkiknkk.png",
+   "LinkPlist": "https://itunes.apple.com/us/app/imusic-mp3-music-player-playlist-manager-unlimited/id1061546531?mt=8",
+   "LinkIpa": "https://itunes.apple.com/us/app/imusic-mp3-music-player-playlist-manager-unlimited/id1061546531?mt=8",
+   "LinkDemo": "https://s2.mzstatic.com/r30/Purple4/v4/02/e5/d2/02e5d293-dc9f-4047-2d2a-c2ebfbabdcc5/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple3/v4/3a/6c/2d/3a6c2db3-c3f5-9494-239d-a4a3c3161374/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple/v4/e4/aa/45/e4aa453c-1990-a45c-f74e-e9a990d89202/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple5/v4/97/92/12/97921288-4de9-1421-9d3e-fbaf1159c2dd/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple4/v4/b2/f3/ca/b2f3ca1a-d0b2-86ea-ee9d-6cdee397e7f5/screen1136x1136.jpeg",
+   "Description": "Download and/or stream free and legal music from Jamendo® on your iPhone, iPod and iPad.\nNOTE: Downloading is available only when publisher marked content as downloadable\n\n√ Full iPhone 5, 5c and 5s Support!\n√ Skins Support + New iOS 7 Style Skin!\n\n√ Catalog\n- Single tap music streaming and/or downloads\n- Listen songs before downloading\n- Search for artist, DJ, song, remix or cover\n\n√ Download Manager\n- Fast Downloading\n- Multiple downloading at one time\n- Pause, resume, or cancel downloading\n- Live download progress bar\n- Downloads badge\n\n√ File manager\n- Folders manager\n- Move, rename or delete files\n- Sort by name, type, size, date\n- Search by filename\n\n√ Playlists\n- iPod-Like music playlists\n\n√ Media player\n- Full featured music player\n- Album covers\n- Sleep timer\n- Equalizer with BassBooster\n- Lock screen playback controls\n- Fine scrubbing\n- Background music playback (iPhone 3GS, iOS 4.0 or later)\n\n√ Media library\n- Tag Editor\n- Import music from iPod library\n- Songs Rating like in iTunes\n- iPod style Smart Playlists\n- Tabs for Songs, Albums, Artists"
+ },
+ {
+   "AppID": 10002,
+   "Category": "Entertainment",
+   "AppName": "iTube Pro - Playlist Manager for Youtube",
+   "Price": 4.99,
+   "LinkIcon": "https://s5.mzstatic.com/us/r30/Purple6/v4/68/17/97/68179717-6108-d9be-4240-6d61f4f6e35a/mzl.smsuutud.png",
+   "LinkPlist": "https://itunes.apple.com/us/app/player-gr/id1327301566?mt=8",
+   "LinkIpa": "https://itunes.apple.com/us/app/player-gr/id1327301566?mt=8",
+   "LinkDemo": "https://s2.mzstatic.com/r30/Purple4/v4/2e/db/35/2edb35c6-ddf7-8b66-1610-d5dff0ce0e96/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple6/v4/6e/03/ca/6e03ca7d-1e33-3b6f-4764-9bb5a5d443bc/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple4/v4/fa/49/c5/fa49c5d5-3f33-6790-6626-d61dad23a5a2/screen1136x1136.jpeg\nhttps://s5.mzstatic.com/r30/Purple6/v4/25/dc/40/25dc402f-df56-3f7a-3274-545c6c9f283e/screen1136x1136.jpeg\nhttps://s3.mzstatic.com/r30/Purple4/v4/52/3d/55/523d5512-b5e9-5f20-3e8f-5b95ce1fb1d8/screen1136x1136.jpeg",
+   "Description": "Use YouTube as music player: \n- Play on background \n- Find lyrics to videos \n- Set a sleep timer \n- Make Playlists \n- Enjoy Dynamic TOP 100 Playlists = changes every day. \n- View history of watched videos and make favorites list \n- Login with YouTube and play & edit your playlists \n- Publish on Facebook, Whatsapp, Twitter, email or SMS. \n- Display media info on lock screen \n- Search Playlists and Channels and copy them immediately to be yours. \n- Skip songs with headphones or iPod controls \nNeed to say more? \n\nAlso: \n- Double Tap on video to zoom in and out, one tap to dismiss controls. \n- Scroll player controls to the left to see sleep timer, rotation lock and more. \n\nThank you for all the reviews, good and bad. We read them all."
+ },
+ {
+   "AppID": 10003,
+   "Category": "Entertainment",
+   "AppName": "MovieBox",
+   "Price": 4.99,
+   "LinkIcon": "https://s5.mzstatic.com/Purple2/v4/5a/47/70/5a4770b4-ebf7-21f6-80e0-8301e9458159/icon180x180.jpeg",
+   "LinkPlist": "",
+   "LinkIpa": "https://itunes.apple.com/us/app/movie-box-play-box-myth-film/id1455171042?mt=8&fbclid=IwAR0mUXqvaw8vCKSe6qkY2XpoqsWRZP7KPHws-Ux90gA6kN45XSxbffK9vYk",
+   "LinkDemo": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/57/b8/37/57b837e8-3596-100e-5cda-f32e45fd1199/source/392x696bb.jpg\nhttps://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/14/e8/9c/14e89ccd-8908-89c3-8ef9-9d2f7717aed4/source/392x696bb.jpg\nhttps://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/24/e8/9a/24e89aa1-9807-26da-67ef-0205d40f35f5/source/392x696bb.jpg\nhttps://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7f/97/e8/7f97e8d1-9911-d7ef-84e7-dfaca01585c1/source/392x696bb.jpg\nhttps://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/b9/f7/bab9f73d-899c-f0e0-38f3-60b5ed339c13/source/392x696bb.jpg\nhttps://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/46/2a/36/462a3679-5994-ce1e-654a-ee9688f5c38f/source/392x696bb.jpg\nhttps://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/a4/82/7ba482c8-5542-ded1-31dc-e4d4872b0456/source/392x696bb.jpg\nhttps://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/b4/cd/9b/b4cd9bb2-625b-345c-cf36-d9b55d9c926b/source/392x696bb.jpg",
+   "Description": "Movie Box let you watch and stream free movies online! This app provide hd, fast and full free movie you can stream anytime and anywhere, because all movie is public!\nCome here to watch and stream free movies online with hottest movie mobile app: Movie Box - Play Box Myth Film\n\nThis app let you play and stream movies with native player, have many advances feature!\n\nMovie Box - Play Box Myth provide full free public domain movie you can stream without any legal issue!\n\nApp Features:\n- Free to watch online Movies and Shows.\n- Get almost detailed info about any movies.\n- Bookmark any movies you love for a later watch.\n- Manage your Favorites and ToWatch movie list. Allow you add, delete and re-order them!\n- Set reminder for any movie do you love to watch it later. Movie Box will remind you at the right time to enjoy it!\n- Native support for airplay.\nAnd.....one more thing: Movie Box have secure mode to secure your favorite movie list, help you against unauthorized access of strangers and children by use TouchID or FaceID. This feature can enable/disable in Setting!\n\nNow enjoy the old but good movies. Many myth movie and show waiting for you!\n\nAll types of movies is public domain movies, easy to watch on your mobile phone.\n\nPublic Domain: The status of a published work or invention upon which the copyright or patent has expired or which has not been patented or subject to copyright. It may thus be freely used by the public. There many movies that are now in the Public Domain, and therefore, you can enjoy them for free. (Wiki)\nThis app will automatically add any new films that loose their rights and become of public domain for you to enjoy."
+ },
+ {
+   "AppID": 10004,
+   "Category": "Entertainment",
+   "AppName": "ShowBox",
+   "Price": 4.99,
+   "LinkIcon": "https://s3.mzstatic.com/us/r30/Purple69/v4/82/87/0d/82870d79-a8e0-b088-11f2-cc4c1e7a1d60/CRV_AP_360x216.jpeg",
+   "LinkPlist": "",
+   "LinkIpa": "https://s3.mzstatic.com/us/r30/Purple69/v4/82/87/0d/82870d79-a8e0-b088-11f2-cc4c1e7a1d60/CRV_AP_360x216.jpeg",
+   "LinkDemo": "https://s4.mzstatic.com/r30/Purple20/v4/ee/44/9a/ee449a64-689f-20da-4f41-244c6b151c28/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple20/v4/c9/33/cf/c933cf3b-e644-f482-e4ee-76b4a75ee795/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple18/v4/88/b1/e8/88b1e874-30b9-2d10-1250-96c39b8cacb0/screen1136x1136.jpeg",
+   "Description": "List of genres : Action, Adventure, Comedy, Crime, Faction, Fantasy, Historical, Horror, Mystery, Romance, ...\n\nFeatures :\n\n- Watch the latest film\n\n- Hundreds of Free Full Length Movies with Famous Actors\n\n- View all film in a genre\n\n- Read movie summaries, run times and cast lists\n\n- View list of genres\n\n>>> Don't hesitate! Hurry up! Let's download, install and experience it"
+ },
+ {
+   "AppID": 10005,
+   "Category": "Utilities",
+   "AppName": "iDownloader Pro - Downloads & Download Manager",
+   "Price": 4.99,
+   "LinkIcon": "https://s1.mzstatic.com/us/r30/Purple1/v4/8a/e6/ec/8ae6eceb-8d89-c0a8-20d6-11a46ad886d1/mzl.qoiafund.png",
+   "LinkPlist": "https://itunes.apple.com/us/app/i-files-file-manager-offline-browser/id1073846064?mt=8&fbclid=IwAR1ZFEWD68wXy-h3cHl5GgPhbngZOdAp-E66EfrscI89LWeJwv1winWu5UM",
+   "LinkIpa": "https://itunes.apple.com/us/app/i-files-file-manager-offline-browser/id1073846064?mt=8&fbclid=IwAR1ZFEWD68wXy-h3cHl5GgPhbngZOdAp-E66EfrscI89LWeJwv1winWu5UM",
+   "LinkDemo": "https://s2.mzstatic.com/r30/Purple69/v4/4c/96/e5/4c96e5be-d3af-65d7-bf09-28323bb4da41/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple69/v4/18/b5/93/18b593bd-0d3d-e339-7135-81a13911faa9/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple49/v4/ce/e4/7b/cee47b9d-1204-1147-5aa6-53824cee9fd5/screen1136x1136.jpeg\nhttps://s1.mzstatic.com/r30/Purple69/v4/5e/90/26/5e902632-9089-8cc0-6398-ce640e4b6940/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple69/v4/22/d1/ac/22d1ac3e-35ca-5e6e-0225-84fbafc760b8/screen1136x1136.jpeg",
+   "Description": "> FAST AND EASY To Get The Files You Want!!!\n> NO LIMITS on Storage with Cloud Platform Linking!\n> TOTALLY FREE For Use!\n\nFiles Free is designed to be the most effective app which helps users easily download the files and documents for your iPhone, iPod and iPad.\nFiles Free allows you to search for files in Safari-like Web Browser, manage your files and search history, set password to protect your privacy.\n\nWhat is more, Files Free links with popular cloud platforms, including Dropbox, Google Drive. You can now sync all your files to your device as well as save them to cloud and free your precious storage.\n\n√ Web Browser\n- Built-in Web Browser.\n- Full Screen Mode\n- Bookmark manager\n- Privacy Mode\n- Search History\n- History Browser\n- Save web pages\n\n√ Download Management \n- Ultra-fast download speed\n- Simultaneous charging\n- Resume interrupted downloads files\n- Download files via Wifi and 3G\n\n√ Cloud Manager\n- Cloud Storage Linking\n- Save your precious space on device\n- Sync files between Cloud and your device\n\n√ File Management\n- Save files to your phone\n- Move, rename and delete files.\n- Extract ZIP and RAR archives\n\n√ File Browsing\n- Full image viewer\n- Full document viewer which supports PDF, .doc, .xls, .ppt, .txt, .html and .rtf files\n- Open the file in another program\n\n√ Passcode Lock\n- Personal password\n- Encrypted digital ID"
+ },
+ {
+   "AppID": 10006,
+   "Category": "Entertainment",
+   "AppName": "FoxTube - Player Videos Music Streamer",
+   "Price": 4.99,
+   "LinkIcon": "",
+   "LinkPlist": "",
+   "LinkIpa": "",
+   "LinkDemo": "https://s5.mzstatic.com/r30/Purple/v4/86/04/47/8604473a-e608-82bb-956d-fd280af1208c/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple6/v4/76/ed/94/76ed9453-542f-8bfe-4198-0c66008b6fe2/screen1136x1136.jpeg\nhttps://s5.mzstatic.com/r30/Purple4/v4/e7/59/ad/e759ad62-9955-f782-dfa1-09a0705c6e01/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple6/v4/2d/32/53/2d3253c1-f57f-aa12-03b8-0693f1cc6114/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple4/v4/04/32/12/0432121a-30ed-ad35-8361-63b6b80b32b6/screen1136x1136.jpeg",
+   "Description": "Play YouTube video continuously from playlists.\n\nFoxTube HD features:\n* Easy search (auto-completion, search history)\n* Manage playlists (rename, merge, move, copy, delete)\n* support YouTube account login\n* Supports remote controls\n* Display media info in lock screen(iOS5 only)\n* supports YouTube HQ videos\n\nVideo player features:\n* Play speed: Play at 0.5X speed to 2.0X speed.\n* TV-out support for iPad2\n* AirPlay & AirPlay mirroring(on iPad2)\n* Pan gestures in list view to switch between views\n* Customizable gestures in player \n* supports multi-stroke gestures (you can assign lots of functions with just one finger)\n* A-B repeat\n* Bookmarks within video\n* Scene brower: find moment in video by thumbnails.\n* previous frame / next frame\n* extreme slow motion play without audio (1FPS - 0.5X).\n* repeat mode: repeat all/one/none\n\n* YouTube, YouTube logo are trademarks and properties of Google Inc. YouTube logo is used for informational purposes only."
+ },
+ {
+   "AppID": 10007,
+   "Category": "Entertainment",
+   "AppName": "MxTube",
+   "Price": 4.99,
+   "LinkIcon": "",
+   "LinkPlist": "",
+   "LinkIpa": "",
+   "LinkDemo": "https://s1.mzstatic.com/r30/Purple4/v4/c2/18/49/c218499e-36f3-8ba7-edc7-6ed1d9ba9ed4/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple3/v4/e3/e3/41/e3e341b8-18c5-04a6-92c5-320edad4d6c5/screen1136x1136.jpeg\nhttps://s2.mzstatic.com/r30/Purple4/v4/25/49/61/2549616a-2185-6c43-b837-1863925208ea/screen1136x1136.jpeg\nhttps://s4.mzstatic.com/r30/Purple4/v4/26/9c/b0/269cb0bd-0e1e-eb22-86e1-c2683de297fd/screen1136x1136.jpeg",
+   "Description": "MxTube Player is a super easy-to-use YouTube app with a super clean design! Access the world’s videos and Catch up on your favorite videos from around the world with the best YouTube client for iOS!\n\n+ Some key features about MxTube Player + \n* Superfast interface! \n* Login to YouTube account and manage it \n* Add music videos to your Youtube account \n* Watching thousands FREE MOVIES from Youtube \n* Easy browse & search your favorite videos. \n* Support hight-quality videos. \n* Favorite videos section \n* Automatic Country specific content \n* Automatic history of the videos you have watched \n\n+ More Features + \n* 100 Million+ Videos Available \n* Fast/Slow forward function. \n* Auto save playing videos position. \n* View YouTube’s vast video catalog \n* Search and view videos and more easily than any other app available \n* Everything is possible! Read comments, browse related videos and more - all while watching \n\nFree MxTube Player is a universal application and is suitable for all iPhone, iPod and iPad devices!"
+ }
+]
