@@ -6,7 +6,7 @@
    "Price": 0,
    "LinkIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8f/d5/24/8fd524b9-4b5c-ee6e-9a55-39f77d39e181/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/150x150bb.png",
    "LinkPlist": "",
-   "LinkIpa": "https://itunes.apple.com/US/app/id609030412?l=en",
+   "LinkIpa": "itms-services://?action=download-manifest&url=https://ipabox.store/ipaboxpnbdnp/deezer.plist",
    "LinkDemo": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/1b/d6/d31bd6b0-712d-3bf7-890a-e3bc9ad91486/source/392x696bb.jpg\nhttps://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/37/c7/9b/37c79b80-94e0-483c-a444-3ab89f54c4bc/source/392x696bb.jpg\nhttps://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/41/68/d2/4168d2d9-1377-ce25-b2cf-4e9c94eb8e0e/source/392x696bb.jpg\nhttps://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a7/94/bc/a794bcc1-6a06-ed68-6b5a-63eda155e501/source/392x696bb.jpg\nhttps://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/a8/53/fd/a853fdcb-4fdc-d8e0-9047-5b23e18d3f39/source/392x696bb.jpg",
    "Description": ".Voice Recorder , voice memo is Simple and user-friendly \n.It is working offline completely with no ads\n.Voice Recorder Free ( Apple Watch & iMessage )\nVoice Recorder , voice memo is an easy voice recorder\n\n.One Touch Recording,\n.One Touch Stop & Save,\n.Storing recording both in raw and mp3 format,\n.Voice memos,\n.voice email,"
  },
@@ -17,7 +17,7 @@
    "Price": 0.99,
    "LinkIcon": "https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/5d/06/fe5d0631-8a70-6bbf-91bd-6b87609a5c10/mzl.snndbvcz.jpg/150x150bb.png",
    "LinkPlist": "",
-   "LinkIpa": "https://itunes.apple.com/US/app/id1148018608?l=en",
+   "LinkIpa": "itms-services://?action=download-manifest&url=https://ipabox.store/ipaboxpnbdnp/deezer.plist",
    "LinkDemo": "https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/a4/1f/a0/a41fa07e-7052-1f34-cd40-c4df13e8dc32/source/392x696bb.jpg\nhttps://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/0d/59/52/0d59520c-bf1c-c292-59c3-6df2eddaca50/source/392x696bb.jpg",
    "Description": "-Record unlimited scene as you want\n-Pause during recording\n-Cut/Copy/Paste your videos after record\n-Merge all you videos on the same screen"
  },
@@ -28,7 +28,7 @@
    "Price": 0,
    "LinkIcon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/88/d3/fb88d358-e127-67a4-a7db-2b9269e467d2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/150x150bb.png",
    "LinkPlist": "",
-   "LinkIpa": "https://itunes.apple.com/US/app/id731368203?l=en",
+   "LinkIpa": "itms-services://?action=download-manifest&url=https://ipabox.store/ipaboxpnbdnp/deezer.plist",
    "LinkDemo": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/74/88/18/74881805-9fa9-ce39-54ff-8399052ef4cd/source/392x696bb.jpg\nhttps://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/3d/33/c4/3d33c408-98af-2716-b6b2-7d2be3b34165/source/392x696bb.jpg\nhttps://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/b7/a9/a8b7a950-4373-ae72-29fa-17ea5da6c805/source/392x696bb.jpg\nhttps://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/89/fd/6d89fd38-d765-9d2b-76ca-3e6f50db244e/source/392x696bb.jpg",
    "Description": "The easiest voice recorder ever!\nThe common choice of 60 millions users!\n\nA new, modern design makes it even easier to capture and share personal notes, family moments, classroom lectures, work meetings, speeches, interviews and more. Also, It can help you learn languages easily.\n\nEditing tools like trim and cut let you fine-tune your recordings. And use other more functions to do even more to help you work efficiently. \n\nFeatures:\n\nEasy to Record\n\nChoose audio formats such as mp3, m4a, AIFC, wav.\nChoose sample rate（8-48KHz） and bit rate（64-320kbps）.\nPlan your recording schedule.\nAuto pause to record the sound you want.\nSiri shortcuts support.\n\nEasy to listen\n\nQuickly find recordings with the search feature.\nJump 5 seconds forward or back.\nStop playback at the scheduled time.\nChange speed."
  }
