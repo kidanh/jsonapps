@@ -68,13 +68,13 @@
  {
    "AppID": 10006,
    "Category": "Movie",
-   "AppName": "Movie HD",
+   "AppName": "CotoMovies",
    "Price": 0,
-   "LinkIcon": "https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/70/f6/24/70f624c7-1a9e-e499-7b91-049d6ba4e62f/source/512x512bb.jpg",
+   "LinkIcon": "https://1.bp.blogspot.com/-zziipXCm5Ro/XHS6PnccPyI/AAAAAAAAAG0/6hhrWtf1ixs1YcR-H-PjrSMDBGw_E7xGwCLcBGAs/s640/coto5%25402x.png",
    "LinkPlist": "",
-   "LinkIpa": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tu5bmRkZm0rJSjpMWp18SRVau8mceelMXynbiZnqSmrJScorc,%2Ftitle%2FDixMax",
-   "LinkDemo": "https://s1.mzstatic.com/r30/Purple62/v4/45/4a/70/454a701f-3858-dcda-93a5-0eddc23f5dc6/screen696x696.jpeg\nhttps://s4.mzstatic.com/r30/Purple62/v4/78/a4/72/78a472ec-6de6-a470-6def-0d75fffe5a34/screen696x696.jpeg",
-   "Description": "View the latest movie trailers for many current and upcoming releases. Many trailers are available in high-quality HD, iPod, and iPhone versions"
+   "LinkIpa": "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3o5fVZyzntWsYMrx07WbiKa9YtaloYXj3rVfmq6qldGVoc6p0MOSiLCyo9ycl4Tj3rU,%2Ftitle%2FCotoMovies",
+   "LinkDemo": "https://cotomovies.com/images/screen1.jpg\nhttps://cotomovies.com/images/screen2.jpg\nhttps://cotomovies.com/images/screen3.jpg",
+   "Description": "DESCRIPTION\n3.4.1: This version is compatible with iOS 9 devices and above.\n- Performance improvements\n- Added Media Streaming Server: DLNA/UPnP to share and stream your own home media without needing the internet.(eg: Smart TVs, Xbox, PSx, much more)\n- Fixed: Searching with optional.\n- Fixed: can't copy the downloaded files to photos library and offline streaming error\n\n3.3.9:\n- Performance improvements\n- Updated getting max speed stream to Wifi Direct Share, Google Chromecast.\n- Fixed copying your downloaded to photos library.\n- Fixed app compatible with iOS 8.\n- Fixed crashing when downloaded stream.\n- Improved Trakt Service in app.\n\n3.3.8:\n- Fixed: app crashes while streaming.\n- Improved the download feature with stream speed\n\n3.3.7:\n- Fixed: the download crashing in background mode and push notifications when downloading is successful.\n- Updated: capacity remaining in download screen\n- Performance improvements\n- Improved the download feature for background mode, you will receive a push notification when downloading is complete\n- Fixed Trakt login for no jailbreak devices\n- Updated stream speed so you can watch and download faster"
  },
  {
    "AppID": 10007,
